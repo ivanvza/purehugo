@@ -28,6 +28,7 @@ disqusShortname = "xxxx"
   githubName = "dplesca"
   description = "Demo site for a hugo theme"
   google_analytics = "UA-xxxxxx-xx"
+  image = "<path/to/image>"
 ```
 
 Notice the configuration necessary for disqus comments (just setting the disqusShortname), the twitter and github handlers (for the site sidebar), the site description and enabling Google Analytics reporting.
